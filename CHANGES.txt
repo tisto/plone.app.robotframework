@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.9.3 (unreleased)
+0.9.3 (2014-06-23)
 ------------------
 
 - Add 'Global allow' content keyword.
